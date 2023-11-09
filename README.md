@@ -5,7 +5,7 @@ Arroyostack is a user authentication backend service API built with Node.js and 
 
 ## Features
 
-## This are the features I am currently implementing
+
 
 - **User Authentication**: Easily integrate user authentication into your application.
 - **Token-based Security**: Ensure secure and stateless authentication with JSON Web Tokens (JWT).
